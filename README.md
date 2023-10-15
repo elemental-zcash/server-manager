@@ -9,6 +9,10 @@ docker network create -d bridge elemental_net
 
 ## Server Setup
 
+```sh
+make init
+```
+
 ### Debian
 
 
